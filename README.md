@@ -1,2 +1,3 @@
 <h3>PYTHON BASIC </h3>
-<h5>some leetcode solutions  of Easy task </h4>
+
+<p> These are some  of the basic  code solutions </p>
