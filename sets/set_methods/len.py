@@ -1,0 +1,1 @@
+print(len(b)) # gives us the length of the set
