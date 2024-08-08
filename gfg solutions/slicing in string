@@ -1,0 +1,5 @@
+def join_middle(bound_by, tag_name):
+  
+    s= len(bound_by)
+    return bound_by[0 : s//2   ] + tag_name + bound_by[s//2: ]
+join_middle()
