@@ -16,5 +16,6 @@ Loops in python: Examples and exercises on loops.
 * function and recursion: Understanding functions and recursion.
 * list and tuple: Working with lists and tuples.
 * sets: Examples of using sets in Python.
+* GfG : solved geeksforgeeks solution using python
 </p>
 
