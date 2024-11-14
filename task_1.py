@@ -1,10 +1,3 @@
-def calculations(a,b):
-    add = a + b
-    sub = a - b 
-    multi =  a * b
-    div =  a / b
-
-    return add,sub,multi,div
-
-res = calculations(10,10)
-print(res)
+# What is tuple? Difference between list and tuple.
+# ==>Tuples are immutable
+# ==>Tuple does not have many built-in methods.
